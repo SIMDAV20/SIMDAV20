@@ -8,6 +8,9 @@ I'm a passionate **Sotware Engineer** with over 6 years of experience building s
 
 I use data and technology to create impactful solutions for businesses across industries such as **e-commerce**, **education**, **ERP systems**, **investment funds**, **human resources**, and **mining**.
 
+This is my portfolio, I hope you like it.
+[portfolio-david-bolivar.netlify.app](https://portfolio-david-bolivar.netlify.app)
+
 </div>
 
 💻 My tech skills:
